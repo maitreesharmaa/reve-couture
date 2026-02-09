@@ -9,11 +9,25 @@
 
 *Where dreams meet luxury fashion*
 
-[🚀 Live Demo](https://www.youtube.com/watch?v=LBKFsljS-3Y) • [📱 Features](#-features) • [🛠️ Tech Stack](#-tech-stack) 
+[🚀 Live Demo](https://reve-couture.vercel.app/) • [📱 Features](#-features) • [🛠️ Tech Stack](#-tech-stack) 
 
 </div>
 
 [![Rêve Couture Demo](./assets/thumbnail.jpg)](https://www.youtube.com/watch?v=LBKFsljS-3Y)
+
+> **Note:** The backend is hosted on Render's free tier. If the data doesn't load immediately, please wait **30-60 seconds** for the server to wake up.
+
+## ⚠️ DISCLAIMER: Educational Project Only
+
+> **Please Read Before Using -**
+>
+> This project is a **demo** created for **educational and learning purposes only**.
+>
+> * **NO real products** are sold here.
+> * **NO real payments** are processed.
+> * **DO NOT enter real personal information** (such as credit card numbers, home addresses, or private emails) in any forms or checkout pages.
+>
+> All data used in this application is mock data for demonstration purposes.
 
 ---
 
