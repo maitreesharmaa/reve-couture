@@ -18,7 +18,13 @@ export const metadata: Metadata = {
     template: '%s | Rêve Couture',
   },
   description: 'Discover the finest in luxury fashion.',
-  metadataBase: new URL('http://localhost:3000'),
+  //metadataBase: new URL('http://localhost:3000'),
+  metadataBase: new URL('https://reve-couture.vercel.app'),
+
+  icons: {
+    icon: '/icon.png',
+  },
+  
   openGraph: {
     title: 'Rêve Couture - Luxury Fashion',
     description: 'Discover the finest in luxury fashion.',
