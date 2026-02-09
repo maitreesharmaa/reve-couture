@@ -17,7 +17,7 @@
 
 > **Note:** The backend is hosted on Render's free tier. If the data doesn't load immediately, please wait **30-60 seconds** for the server to wake up.
 
-### ⚠️ DISCLAIMER: Educational Project Only
+## ⚠️ DISCLAIMER: Educational Project Only
 
 > **Please Read Before Using-**
 >
